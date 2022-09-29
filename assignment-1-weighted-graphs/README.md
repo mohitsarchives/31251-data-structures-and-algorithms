@@ -1,4 +1,4 @@
-Assignment 1 - Weighted Graphs
+**Assignment 1 - Weighted Graphs**
 Overview
 Your task is to implement a weighted graph class, offering a reasonably effective suite of operations, including computing the minimum spanning tree, depth and breadth first traversals, and implementing iterators.
 
